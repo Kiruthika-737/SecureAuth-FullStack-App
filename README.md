@@ -1,4 +1,4 @@
-# Cognifyz Internship Task 6: Database Integration and User Authentication
+# Database Integration and User Authentication
 
 ## 📚 Overview
 This project demonstrates secure user authentication and database integration using Node.js, Express, and MongoDB Atlas. It was completed as part of my Full Stack Developer internship at Cognifyz Technologies.
