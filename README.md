@@ -20,7 +20,7 @@ This project demonstrates secure user authentication and database integration us
 ## ⚙️ Setup Instructions
 
 1. **Clone this repository and open in VS Code**
-git clone https://github.com/yourusername/Cognifyz_Task6.git
+git clone https://github.com/Kiruthika-737/Cognifyz_Task6.git
 cd Cognifyz_Task6
 
 
